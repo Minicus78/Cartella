@@ -5,8 +5,9 @@ https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
 https://media2021.rtvweb.com/tva/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/antenna-sicilia.png" group-title="Locali",Antenna Sicilia
-https://tivusto.org/sh/antennasicilia
+https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.C97cba57sNYZ.m3u8?browser_family=chrome&browser_version=142.0&cdm=wv&device_manufacturer=Samsung&device_model=SM-S918B&os_name=Android&os_version=16&platform=androidtv_web_tv&player_backend=mediaplayer&player_version=1.45.0&supported_codecs=av1,h265,h264&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvQzk3Y2JhNTdzTllaIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20iLCJhd3M6c3RyaWN0LW9yaWdpbi1lbmZvcmNlbWVudCI6ZmFsc2UsImV4cCI6MTc2Mzc2Njg0N30.BWEyI_npWtGtBD1diRl5qYY27fOUytdsiNqKP9HAjERHPrtmBC7XLHwxmnRIzGDdbaJv29ClxkJCJeLqevpgNcmzW-pIUdlqBcYco1-VkWlXHtUVRkhR_JBE9MD_rubT
 
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telecolor-catania.webp" group-title="Locali",Telecolor Catania
 https://tivusto.org/sh/telecolorcat
+
 
