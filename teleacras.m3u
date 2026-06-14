@@ -10,3 +10,7 @@ https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/telecolor/med
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="K2.it" tvg-chno="40" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/kappa_due.png" group-title="Discovery",K2
 https://alwaysdata-api.zappr.stream/k2.mpd|drm_scheme=clearkey&drm_license={"keys":[{"kty":"oct","kid":"AQDzs30qOtJULXjQAP+R+g","k":"UH6tky/iXm8eO6D8OfxwQA"},{"kty":"oct","kid":"AQXUzpSoqBeWu73Gq0rYXg","k":"ydhOxLc1msrSK4V2SyTkzg"}]}
+#EXTINF:-1 tvg-id="K2.it" tvg-chno="40" group-title="Discovery",K2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQDzs30qOtJULXjQAP+R+g","k":"UH6tky/iXm8eO6D8OfxwQA"},{"kty":"oct","kid":"AQXUzpSoqBeWu73Gq0rYXg","k":"ydhOxLc1msrSK4V2SyTkzg"}]}
+https://alwaysdata-api.zappr.stream/k2.mpd
