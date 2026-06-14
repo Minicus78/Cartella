@@ -2,7 +2,7 @@
 https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tva-tele-video-agrigento.png" group-title="Locali",TVA Tele Video Agrigento
 https://media2021.rtvweb.com/tva/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/antenna-sicilia.png" group-title="Locali",Antenna Sicilia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_antenna_sicilia.jpg" group-title="Locali",Antenna Sicilia
 https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telecolor-catania.webp" group-title="Locali",Telecolor Catania
 https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/telecolor/media-video-stream-1.m3u8
