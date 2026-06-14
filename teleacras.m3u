@@ -8,7 +8,7 @@ https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicili
 https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/telecolor/media-video-stream-1.m3u8#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telecolor-catania.webp" group-title="Locali",NOVE
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/nove.png" group-title="Discovery",NOVE
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="K2.it" tvg-chno="40" group-title="Discovery",K2
+#EXTINF:-1 tvg-id="K2.it" tvg-chno="40" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/kappa_due.png" group-title="Discovery",K2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQDzs30qOtJULXjQAP+R+g","k":"UH6tky/iXm8eO6D8OfxwQA"},{"kty":"oct","kid":"AQXUzpSoqBeWu73Gq0rYXg","k":"ydhOxLc1msrSK4V2SyTkzg"}]}
 https://alwaysdata-api.zappr.stream/k2.mpd
